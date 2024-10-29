@@ -1,0 +1,16 @@
+h1 {
+    background-color: aqua;
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 60px;
+    text-shadow: 2px 2px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 30px;
+    text-align: right;
+    align-items: center;
+    text-shadow: 2px 2px;
+}
